@@ -1,5 +1,4 @@
-import data from './src/data/movies/movies.json' assert {type: "json"};
-
+import data from './src/data/movies/movies.json' assert { type: "json" };
 const filmes = data
 console.log(filmes)
 const movies =document.getElementById("card")
